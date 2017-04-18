@@ -1,3 +1,8 @@
+
+#Jada, dette virket veldig fornuftig dette!
+
+
+
 from abaqus import *
 from abaqusConstants import *
 import __main__
